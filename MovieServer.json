@@ -1,0 +1,93 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "avengers",
+      "subtitle": "The Endgame",
+      "description":
+        "Earth's mightiest heroes must come together and learn to fight as a team",
+      "production": "Marvel",
+      "ratings": 4,
+      "baseUrl": "https://wallpapercave.com/wp/HeLC3lH.jpg"
+    },
+    {
+      "id": 2,
+      "title": "spiderman",
+      "subtitle": "Home coming",
+      "description": "With great power there must also come great responsibility",
+      "production": "Columbia",
+      "ratings": 3,
+      "baseUrl":
+        "https://c4.wallpaperflare.com/wallpaper/1000/316/848/spider-man-2018-game-wallpaper-preview.jpg"
+    
+    },
+    {
+      "id": 3,
+      "title": "wolverine",
+      "subtitle": "One last",
+      "description":
+        "I'm the best there is at what I do, but what I do best isn't very nice.",
+      "production": "Fox",
+      "ratings": 5,
+      "baseUrl": "https://wallpapercave.com/wp/wp734142.jpg"
+    },
+    {
+      "id": 4,
+      "title": "batman begins",
+      "subtitle": "Penguin Escapes",
+      "description": "Batman has no limits,This city needs me",
+      "production": "WB",
+      "ratings": 4,
+      "baseUrl": "https://wallpaperaccess.com/full/197292.jpg"
+    },
+    {
+      "id": 5,
+      "title": "justice league",
+      "subtitle": "Team Formation",
+      "description":
+        "Justice for all. Unite the League. You can't save the world alone.",
+      "production": "WB and DC",
+      "ratings": 2,
+      "baseUrl": "https://wallpapercave.com/wp/wp2043930.jpg"
+    },
+    {
+      "id": 6,
+      "title": "wonder woman",
+      "subtitle": "the Queen",
+      "description":
+        "Something no hero will ever defeat. And now I know, that only love can truly save the world. So I stay, I fight, and I give, for the world I know can be",
+      "production": "Marvel",
+      "ratings": 5,
+      "baseUrl": "https://wallpapercave.com/wp/wp3864469.jpg"
+    },
+    {
+      "id": 7,
+      "title": "suicide squad",
+      "subtitle": "Bad boys club",
+      "description": "Justice has a bad side. Worst. Heroes.",
+      "production": "Marvel",
+      "ratings": 1,
+      "baseUrl": "https://wallpapercave.com/wp/wp1809869.jpg"
+    },
+    {
+      "id": 8,
+      "title": "joker",
+      "subtitle": "The loved one",
+      "description":
+        "With a smile that sends chills up your spine, he’s a bad guy because the cruel ways of the world made him that way.",
+      "production": "WB and DC",
+      "ratings": 5,
+      "baseUrl": "https://wallpapercave.com/uwp/uwp475883.png"
+    },
+    {
+      "id": 9,
+      "title": "captain america",
+      "subtitle": "Winter Soldier",
+      "description":
+        "I Know Who I Am. I Rescue The Helpless. I Raise Up The Hopeless. I Don't Measure People's Lives... I Save Them.",
+      "production": "Marvel",
+      "ratings": 3,
+      "baseUrl": "https://wallpapercave.com/uwp/uwp942201.jpeg"
+    }
+  ]
+}
